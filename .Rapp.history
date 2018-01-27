@@ -1,0 +1,75 @@
+demo()
+help()
+demo()
+demo().smooth
+demo().smooth()
+demo(smooth)
+demo(lm.glm)
+demo(image)
+install.packages("slidify")
+load(KernSmooth)
+load(KernSmooth_2.23-15)
+library(KernSmooth)
+getwd()
+getwd()
+dir()
+read("HelloWorld.md")
+read.txt("HelloWorld.md")
+read.csv("HelloWorld.md")
+read.file("HelloWorld.md")
+read("HelloWorld.md")
+list
+help
+help("read")
+??read
+msg <- "Hello!!"
+msg
+x <- 1:50
+x
+y = 0/0
+y
+attribures(x)
+attributes(x)
+class(x)
+class(y)
+dim(x) <-c(2,3,4)
+dim(x) <-c(2,5,5)
+x
+f <- factor(c(true, false, true, true))
+f <- factor(c("n", "y","t","f"))
+levels(f)
+f
+e = f(1,2,3,6,7)
+e = c(1,2,3,6,7)
+e
+readLines(url("ya.ru"))
+readLines(url("http:\\ya.ru"))
+readLines(url("http:\\ya.ru", r))
+readLines(url("http:\\ya.ru", "r"))
+readLines(url("http://ya.ru", "r"))
+readLines(url("http://ya.ru", "r"))
+readLines(url("http://ya.ru", "r"))
+head(readLines(url("http://ya.ru", "r")))
+head(readLines(url("http://ya.ru", "r")))
+head(readLines(url("http://ya.ru", "r")))
+readLines(url("http://ya.ru", "r"))
+x[1:10]
+x[x>19]
+t <- x < 5 || x > 27
+t
+t <- x < 5
+t
+t <- x > 5 && x < 17
+t
+t <- x > 5 && x < 45
+t
+t <- x > 2 && x < 45
+t
+t <- x > 2
+t
+y
+z = c(2:67)
+c
+z
+t <- z > 2
+t
