@@ -9,6 +9,6 @@ complete <- function(directory, id = 1:332) {
   }
   
   
-  tr <- data.frame(id,v)
+  tr <- data.frame(id,nobs = v)
   tr
 }
